@@ -1,0 +1,27 @@
+Initialize engine version: 5.0.0f4 (5b98b70ebeb9)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: AMD Radeon HD 7600M Series (ID=0x6840)
+    Vendor:   ATI
+    VRAM:     1004 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: D:\b\projektyprogramowanie\vraios\vraios_beta\Builds\Game_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading D:\b\projektyprogramowanie\vraios\vraios_beta\Builds\Game_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: D:\b\projektyprogramowanie\vraios\vraios_beta\Builds\Game_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading D:\b\projektyprogramowanie\vraios\vraios_beta\Builds\Game_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: D:\b\projektyprogramowanie\vraios\vraios_beta\Builds\Game_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading D:\b\projektyprogramowanie\vraios\vraios_beta\Builds\Game_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+- Completed reload, in  0.387 seconds
+desktop: 1366x768 60Hz; virtual: 1366x768 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+Platform assembly: D:\b\projektyprogramowanie\vraios\vraios_beta\Builds\Game_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: D:\b\projektyprogramowanie\vraios\vraios_beta\Builds\Game_Data\Managed\System.dll (this message is harmless)
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 13.863183 ms
+
+Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 3909.
+Total: 21.258575 ms (FindLiveObjects: 0.208685 ms CreateObjectMapping: 0.094323 ms MarkObjects: 20.931128 ms  DeleteObjects: 0.017105 ms)
+

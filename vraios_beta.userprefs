@@ -1,0 +1,49 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\TriggerZones\Thunder.cs">
+    <Files>
+      <File FileName="Assets\Scripts\GameEvents\LevelManager.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\GameEvents\MainMenu.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Monsters\boss1\boss1_DebuffManager.cs" Line="10" Column="29" />
+      <File FileName="Assets\Scripts\Monsters\boss1\boss1_blackOrb.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\GameEvents\CameraController.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\GameEvents\Checkpoint.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\GameEvents\InventoryIcon.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\GameEvents\InventoryMenu.cs" Line="97" Column="130" />
+      <File FileName="Assets\Scripts\GameEvents\LevelLoader.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\GameEvents\LevelLoadingScreen.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\GameEvents\MusicController.cs" Line="4" Column="47" />
+      <File FileName="Assets\Scripts\GameEvents\OpenDoor.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\GameEvents\Parallax.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\GameEvents\PauseMenu.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\GameEvents\TimeManager.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Monsters\boss1\boss1_minusOrb.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Monsters\boss1\boss1_plusOrb.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Monsters\EnemyHealthManager.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Monsters\EnemyPatrol.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Monsters\MonsterBControl.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Player\DmgSplash.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Player\HealthManager.cs" Line="21" Column="49" />
+      <File FileName="Assets\Scripts\Player\HurtPlayer.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Player\ItemPickup.cs" Line="33" Column="21" />
+      <File FileName="Assets\Scripts\Player\KillPlayer.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Player\LifeManager.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Player\PlayerController.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Player\ScoreManager.cs" Line="12" Column="32" />
+      <File FileName="Assets\Scripts\Projectiles\BombController.cs" Line="59" Column="72" />
+      <File FileName="Assets\Scripts\Projectiles\BulletController.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Projectiles\DestroyBlock.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Projectiles\DestroyFinishedParticle.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Projectiles\DestroyObjectOverTime.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Projectiles\HurtEnemyOnContact.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\TriggerZones\LadderZone.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\TriggerZones\PlatformController.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\TriggerZones\QuestionBlock.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\TriggerZones\Thunder.cs" Line="15" Column="2" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
